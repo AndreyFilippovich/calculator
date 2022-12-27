@@ -1,0 +1,5 @@
+asgiref==3.6.0
+PySide6-Essentials==6.4.1
+shiboken6==6.4.1
+sqlparse==0.4.3
+tzdata==2022.7
