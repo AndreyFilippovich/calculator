@@ -9,7 +9,7 @@
 ### Калькулятор, который запускается из терминала.
 ### При помощи PySide6 использовался QT Designer (Он находится в venv.lib.site-packages.PySide6.designer.exe)
 
-![Внешний вид калькулятора](https://github.com/AndreyFilippovich/calculator/raw/master/photo.png)
+![Внешний вид калькулятора](https://github.com/AndreyFilippovich/calculator/blob/main/photo.png)
 
 ## Запуск проекта:
 
